@@ -1,7 +1,9 @@
 <!--타이틀 부분-->
+<!--타이틀 부분-->
 <div align="center">
-  ![Typing SVG](https://readme-typing-svg.demolab.com?lines=WEONJAE+GitHub;Welcome+to+my+Profile)
+  <img src="https://readme-typing-svg.demolab.com?lines=WEONJAE+GitHub;Welcome+to+my+Profile" alt="Typing SVG" />
 </div>
+
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
