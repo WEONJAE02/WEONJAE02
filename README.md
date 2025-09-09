@@ -1,7 +1,8 @@
 <!--타이틀 부분-->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=WEONJAE+GitHub;Welcome+to+my+Profile" alt="Typing SVG" />
-</p
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00AEEF&center=true&vCenter=true&width=600&lines=WEONJAE+GitHub;Welcome+to+my+Profile" alt="Typing SVG" />
+</p>
+
 
 
 
