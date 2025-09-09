@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 <div align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=WEONJAE GitHub)](https://git.io/typing-svg)
+  ![Typing SVG](https://readme-typing-svg.demolab.com?lines=WEONJAE+GitHub;Welcome+to+my+Profile)
 </div>
 
 <!--내용 부분-->
