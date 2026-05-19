@@ -1,6 +1,6 @@
 <!-- 타이틀 부분 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00AEEF&center=true&vCenter=true&width=650&lines=WEONJAE+GitHub;Backend+Developer;Spring+Boot+%26+React+Project" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00AEEF&center=true&vCenter=true&width=650&lines=WEONJAE+GitHub;Welcome+to+my+Profile;Backend+Developer" alt="Typing SVG" />
 </p>
 
 <br>
@@ -9,29 +9,28 @@
 <h3 align="center">👋 About Me 👋</h3>
 
 <p align="center">
-  Spring Boot 기반 백엔드 개발을 중심으로 공부하고 있으며,<br>
-  실제 서비스 흐름에 맞는 API 설계, 인증, 주문·결제, 리뷰 기능 구현에 관심이 있습니다.<br>
-  졸업프로젝트 <b>줍줍</b>을 통해 사용자와 사장님 서비스를 나누어 개발하고,<br>
-  AI 리뷰 생성 및 픽업 시간 최적화 기능을 구현하고 있습니다.
+  안녕하세요. 백엔드 개발자를 목표로 공부하고 있는 Kong Weanjae입니다.<br>
+  Java와 Spring Boot를 중심으로 웹 서비스 개발을 학습하고 있으며,<br>
+  REST API 설계, 데이터베이스 연동, 인증/인가, 서비스 흐름 구현에 관심이 있습니다.<br>
+  꾸준히 프로젝트를 진행하며 실제 서비스에 가까운 개발 경험을 쌓아가고 있습니다.
 </p>
 
 <br>
 
-<!-- 프로젝트 경험 -->
-<h3 align="center">🚀 Main Project 🚀</h3>
+<!-- 관심 분야 -->
+<h3 align="center">💡 Interests 💡</h3>
 
 <div align="center">
 
-| Project | Description | Role |
-|---|---|---|
-| 줍줍 | 픽업 기반 음식 주문 플랫폼 | Backend / API / AI 기능 연동 |
+| Area | Description |
+|---|---|
+| Backend Development | Spring Boot 기반 서버 개발 |
+| REST API | 클라이언트와 서버 간 API 설계 및 구현 |
+| Database | MySQL, JPA를 활용한 데이터 처리 |
+| Authentication | JWT, Spring Security 기반 인증/인가 |
+| Collaboration | GitHub, PR, 브랜치 전략을 활용한 협업 |
 
 </div>
-
-<p align="center">
-  주문·결제 흐름, 리뷰 작성, AI 리뷰 생성, 픽업 시간 최적화,<br>
-  사장님 주문 관리 기능 등을 중심으로 개발했습니다.
-</p>
 
 <br>
 
@@ -39,9 +38,10 @@
 <h3 align="center">✨ Tech Stack ✨</h3>
 
 <h4 align="center">Backend</h4>
+
 <div align="center">
   <img src="https://img.shields.io/badge/Java-20232a.svg?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Spring Security-6DB33F.svg?style=for-the-badge&logo=springsecurity&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/JPA-59666C.svg?style=for-the-badge&logo=hibernate&logoColor=white" />&nbsp
 </div>
@@ -49,14 +49,16 @@
 <br>
 
 <h4 align="center">Database</h4>
+
 <div align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/H2-1021FF.svg?style=for-the-badge&logo=h2database&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/H2 Database-1021FF.svg?style=for-the-badge&logo=h2database&logoColor=white" />&nbsp
 </div>
 
 <br>
 
 <h4 align="center">Frontend</h4>
+
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
@@ -66,11 +68,11 @@
 
 <br>
 
-<h4 align="center">AI / Data</h4>
+<h4 align="center">Language</h4>
+
 <div align="center">
+  <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
-  <img src="https://img.shields.io/badge/AI Review-00AEEF.svg?style=for-the-badge&logo=openai&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Pickup Time Optimization-FFB000.svg?style=for-the-badge&logo=googlemaps&logoColor=white" />&nbsp
 </div>
 
 <br>
@@ -85,32 +87,13 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/API Design-0052CC.svg?style=for-the-badge&logo=swagger&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/System Design-444444.svg?style=for-the-badge&logo=diagramsdotnet&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/REST API-0052CC.svg?style=for-the-badge&logo=swagger&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />&nbsp
 </div>
 
 <br>
 
-<!-- 개발 경험 -->
-<h3 align="center">🧩 Experience 🧩</h3>
-
-<div align="center">
-
-| Area | Experience |
-|---|---|
-| API Development | REST API 설계 및 구현 |
-| Authentication | JWT 기반 로그인 및 인증 처리 |
-| Order Flow | 주문 생성, 결제 준비, 결제 승인 흐름 구현 |
-| Review | 리뷰 작성, AI 리뷰 생성, 리뷰 문장 부풀리기 기능 |
-| Optimization | 주문 현황과 이동 시간을 고려한 픽업 시간 최적화 |
-| Testing | Swagger, Postman을 활용한 API 테스트 |
-| Collaboration | GitHub PR, 브랜치 관리, 프론트엔드 연동 |
-
-</div>
-
-<br>
-
-<!-- Tools -->
+<!-- 개발 도구 -->
 <h3 align="center">🛠 Tools 🛠</h3>
 
 <div align="center">
@@ -143,6 +126,15 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kong020226&layout=compact&theme=tokyonight" />
+</div>
+
+<br>
+
+<!-- BOJ -->
+<h3 align="center">🏆 Algorithm 🏆</h3>
+
+<div align="center">
+  <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=kong020226" />
 </div>
 
 <br>
