@@ -113,40 +113,4 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
 </div>
 
-<br>
 
-<!-- GitHub Stats -->
-<h3 align="center">📊 GitHub Stats 📊</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kong020226&show_icons=true&theme=tokyonight" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kong020226&layout=compact&theme=tokyonight" />
-</div>
-
-<br>
-
-<!-- BOJ -->
-<h3 align="center">🏆 Algorithm 🏆</h3>
-
-<div align="center">
-  <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=kong020226" />
-</div>
-
-<br>
-
-<!-- Contact -->
-<h3 align="center">📫 Contact 📫</h3>
-
-<div align="center">
-  <a href="mailto:kong020226@gmail.com">
-    <img src="https://img.shields.io/badge/kong020226@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />&nbsp
-  </a>
-  <a href="https://github.com/kong020226">
-    <img src="https://img.shields.io/badge/GitHub-kong020226-181717?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  </a>
-</div>
