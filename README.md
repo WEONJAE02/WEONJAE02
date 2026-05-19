@@ -55,18 +55,7 @@
   <img src="https://img.shields.io/badge/H2 Database-1021FF.svg?style=for-the-badge&logo=h2database&logoColor=white" />&nbsp
 </div>
 
-<br>
 
-<h4 align="center">Frontend</h4>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
-  <img src="https://img.shields.io/badge/React-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
-</div>
-
-<br>
 
 <h4 align="center">Language</h4>
 
@@ -81,7 +70,6 @@
 <h3 align="center">📚 Studying 📚</h3>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/React Query-FF4154.svg?style=for-the-badge&logo=reactquery&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/JWT-000000.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />&nbsp
 </div>
@@ -103,7 +91,6 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/VS Code-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Swagger-85EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black" />&nbsp
 </div>
